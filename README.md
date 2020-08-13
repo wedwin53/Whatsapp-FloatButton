@@ -2,7 +2,7 @@
 
 Created with CodeSandbox
 
-#Required Modules
+**Required Modules**
 
 ```
 npm install react-icons
